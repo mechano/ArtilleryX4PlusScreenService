@@ -4,4 +4,4 @@ From Tortillery firmware for Artillery Sidewinder X4 Pro/Plus (also S1) 3D print
 
 Unzip the archive into the user directory and follow README.txt for installation instructions.
 
-Note: it works also for X4 Pro but you have to change the Tilt Adjust points.
+Note: it works also for X4 Pro but you have to change the Screws Tilt Adjust points.
