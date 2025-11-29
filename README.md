@@ -31,7 +31,7 @@ gcode:
 
 The screen menu has the Screw Tilt Calculate command, but you need to add into yout printer.cfg the following lines for X4 Plus and Plus S1. For X4 Pro remove 2 middle screws and set the 4 corner screews changing values.
 
-[screws_tilt_adjust]
+[screws_tilt_adjust]            
 screw1: 40, 3
 screw1_name: front left screw
 screw2: 290, 3
